@@ -10,6 +10,16 @@ Added title attribute to each image. The title adds a popup description of the i
 
 Added title to head so the company name displays in the tab on the browser.
 
+Replaced div container to a section for cleaner more semantic code.
+
+Changed header class to an ID inside of the section to clean up and remove divs.
+
+Updated CSS for header to reflect as an ID and not a class.
+
+* Example: section id="header"
+
+
+
 
 
 
