@@ -18,6 +18,10 @@ Updated CSS for header to reflect as an ID and not a class.
 
 * Example: section id="header"
 
+Created universal selector for font-family because the same was used throughout the entire css sheet. This will make the css cleaner.
+
+* Example: * { font-family: 'Trebuchet MS', 'Lucida Sans Unicode'...;}
+
 
 
 
